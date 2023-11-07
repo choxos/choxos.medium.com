@@ -1,18 +1,18 @@
 ﻿name,query,start,end,region,deaths
-Russian Ukraine War,russia* AND ukrain* AND (war OR conflict),2004,Ongoing,Eastern Europe,"300,000"
+Russian Ukraine War,russia* AND ukrain* AND (war OR conflict),2004,Ongoing,Eastern Europe,300000
 Myanmar Civil War,(myanmar OR burma) AND (war OR conflict),2021,Ongoing,Asia,40302
-Tigray War,tigray AND (war OR conflict),2020,2022,Africa,"378,000"
-Yemeni Civil War,yemen* AND (war OR conflict),2014,Ongoing,Middle East,"377,000"
-Rojava–Islamist conflict,(rojava OR (kurdistan and syria*)) AND (war OR conflict),2013,Ongoing,Middle East,"50,000"
-South Sudanese Civil War,sudan AND (war OR conflict),2013,2020,Africa,"383,000"
-War in Iraq,iraq AND (war OR conflict),2013,Ongoing,Middle East,"306,000"
-Libyan Crisis,libya* AND (war OR conflict),2011,Ongoing,Middle East,"43,000"
-Syrian Civil War,syria AND (war OR conflict),2011,Ongoing,Middle East,"613,000"
-Boko Haram Insurgency,"""boko haram"" (war OR conflict OR insurgency)",2009,Ongoing,Africa,"350,000"
-Mexican Drug War,mexico AND drug AND (war OR conflict),2006,Ongoing,North America,"400,000"
-Kivu Conflict,kivu AND (war OR conflict),2004,Ongoing,Africa,"100,000"
-Insurgency in Khyber Pakhtunkhwa,"""khyber pakhtunkhwa"" AND (war OR conflict)",2004,2017,Asia,"79,000"
-War in Darfur,darfur AND (war OR conflict),2003,Ongoing,Africa,"300,000"
-Insurgency In the Maghreb,(maghreb OR morocco) AND (war OR conflict OR insurgency),2002,Ongoing,Africa,"54,000"
-War in Afghanistan,afghanistan AND (war OR conflict),2001,2021,Asia,"212,191"
+Tigray War,tigray AND (war OR conflict),2020,2022,Africa,378000
+Yemeni Civil War,yemen* AND (war OR conflict),2014,Ongoing,Middle East,377000
+Rojava–Islamist conflict,(rojava OR (kurdistan and syria*)) AND (war OR conflict),2013,Ongoing,Middle East,50000
+South Sudanese Civil War,sudan AND (war OR conflict),2013,2020,Africa,383000
+War in Iraq,iraq AND (war OR conflict),2013,Ongoing,Middle East,306000
+Libyan Crisis,libya* AND (war OR conflict),2011,Ongoing,Middle East,43000
+Syrian Civil War,syria AND (war OR conflict),2011,Ongoing,Middle East,613000
+Boko Haram Insurgency,"""boko haram"" (war OR conflict OR insurgency)",2009,Ongoing,Africa,350000
+Mexican Drug War,mexico AND drug AND (war OR conflict),2006,Ongoing,North America,400000
+Kivu Conflict,kivu AND (war OR conflict),2004,Ongoing,Africa,100000
+Insurgency in Khyber Pakhtunkhwa,"""khyber pakhtunkhwa"" AND (war OR conflict)",2004,2017,Asia,79000
+War in Darfur,darfur AND (war OR conflict),2003,Ongoing,Africa,300000
+Insurgency In the Maghreb,(maghreb OR morocco) AND (war OR conflict OR insurgency),2002,Ongoing,Africa,54000
+War in Afghanistan,afghanistan AND (war OR conflict),2001,2021,Asia,212191
 Gaza–Israel conflict,gaza AND israel AND (war OR conflict),2006,Ongoing,Middle East,10557

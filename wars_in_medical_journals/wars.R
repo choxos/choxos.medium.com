@@ -1,8 +1,6 @@
-library(openxlsx)
 library(europepmc)
 
-wars = read.xlsx("wars_in_medical_journals/list_of_wars.xlsx", sheet = 2)
-
+wars = read.csv("wars_in_medical_journals/list_of_wars.csv")
 
 issns = '(ISSN:"0959-8138" OR ISSN:"1756-1833" OR ISSN:"0140-6736" OR ISSN:"1474-547X" OR ISSN:"0028-4793" OR ISSN:"1533-4406" OR ISSN:"0098-7484" OR ISSN:"1538-3598")'
 
