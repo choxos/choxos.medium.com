@@ -8,10 +8,10 @@ South Sudanese Civil War,sudan AND (war OR conflict),2013,2020,Africa,383000
 War in Iraq,iraq AND (war OR conflict),2013,Ongoing,Middle East,306000
 Libyan Crisis,libya* AND (war OR conflict),2011,Ongoing,Middle East,43000
 Syrian Civil War,syria AND (war OR conflict),2011,Ongoing,Middle East,613000
-Boko Haram Insurgency,"""boko haram"" (war OR conflict OR insurgency)",2009,Ongoing,Africa,350000
+Boko Haram Insurgency,"boko haram" AND (war OR conflict OR insurgency),2009,Ongoing,Africa,350000
 Mexican Drug War,mexico AND drug AND (war OR conflict),2006,Ongoing,North America,400000
 Kivu Conflict,kivu AND (war OR conflict),2004,Ongoing,Africa,100000
-Insurgency in Khyber Pakhtunkhwa,"""khyber pakhtunkhwa"" AND (war OR conflict)",2004,2017,Asia,79000
+Insurgency in Khyber Pakhtunkhwa,"khyber pakhtunkhwa" AND (war OR conflict),2004,2017,Asia,79000
 War in Darfur,darfur AND (war OR conflict),2003,Ongoing,Africa,300000
 Insurgency In the Maghreb,(maghreb OR morocco) AND (war OR conflict OR insurgency),2002,Ongoing,Africa,54000
 War in Afghanistan,afghanistan AND (war OR conflict),2001,2021,Asia,212191
