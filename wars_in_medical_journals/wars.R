@@ -203,3 +203,7 @@ summary(lm_wars)
 require(MASS)
 nb_wars = glm.nb(articles_sum~deaths+region, data = db_wars)
 summary(nb_wars)
+
+
+
+
